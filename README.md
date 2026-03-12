@@ -1,3 +1,5 @@
+## 🌐 Live Demo
+https://lavanya-1031.github.io/codveda-simple-website/
 # Codveda Simple Website
 
 This project is a simple responsive website created using HTML and CSS as part of the Codveda Web Development Internship.
